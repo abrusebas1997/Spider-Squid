@@ -4,7 +4,7 @@ Sider Squid is a riviting story about a lonely squid, who's really into photogra
 
 # Characters
 
-    Sqetter Sqarcker (Sider Squid)
+    Sqetter Sqarcker (Spider Squid)
     Grey Shark
     Sqary Sqane
     Uncle Sqed
